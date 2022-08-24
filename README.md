@@ -12,10 +12,11 @@ The hypothesis is that the levels have dropped, and we're determined to find out
 
 - [Data](#problem_statement)
 - [Flow of project](#project)
-- [Part 1 - Data Collection and Mining](#1)
-- [Part 2 - Data Cleaning](#2)
-- [Part 3 - Data Engineering](#3)
-- [part 4 - Machine Learning](#4)
+- [Part 1 - Exploring Data API](#1)
+- [Part 2 - Data Extraction](#2)
+- [Part 3 - Data Cleaning and Transformations](#3)
+- [Part 4 - Object Detection using YOLOv5](#4)
+- [Part 5 - Visualizationa and Data Analysis](#4)
 - [Acknowledgments](#acknowledgments)
 
 ## 🗂 Data <a name = "problem_statement"></a>
